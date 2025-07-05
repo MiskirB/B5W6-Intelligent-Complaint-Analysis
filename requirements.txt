@@ -1,0 +1,36 @@
+# Core
+pandas
+numpy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Text Preprocessing & Embeddings
+nltk
+sentence-transformers
+langchain
+tqdm
+
+# Vector Database
+faiss-cpu   # or use faiss-gpu if needed
+chromadb    # optional alternative to FAISS
+
+# LLM Integration
+transformers
+openai      # if using OpenAI API
+huggingface_hub
+
+# Web App UI
+gradio      # or streamlit (choose one)
+# streamlit
+
+# Utilities
+python-dotenv
+
+sentence-transformers
+faiss-cpu
+pandas
+numpy
+tqdm
