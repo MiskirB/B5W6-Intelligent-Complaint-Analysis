@@ -34,3 +34,8 @@ faiss-cpu
 pandas
 numpy
 tqdm
+sentence-transformers==2.2.2
+transformers>=4.30
+torch>=2.0
+gradio
+numpy
